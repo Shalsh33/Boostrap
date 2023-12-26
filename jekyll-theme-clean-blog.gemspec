@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-theme-clean-blog"
-  spec.version       = "4.0.12"
-  spec.authors       = ["Start Bootstrap"]
-  spec.email         = ["feedback@startbootstrap.com"]
+  spec.name          = ""
+  spec.version       = ""
+  spec.authors       = ["IS107"]
+  spec.email         = [""]
 
-  spec.summary       = "A simple blog theme based on Bootstrap 4 by Start Bootstrap."
-  spec.homepage      = "https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll"
+  spec.summary       = ""
+  spec.homepage      = "https://github.com/Shalsh33/MuestrarioSecundaria"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|_sass|LICENSE|README)}i) }

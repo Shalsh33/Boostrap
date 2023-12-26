@@ -13,7 +13,7 @@ instagram_username:  escuelas_secundarias_3_arroyos
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-#google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
