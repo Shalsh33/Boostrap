@@ -12,13 +12,14 @@ facebook_username:
 instagram_username:  escuelas_secundarias_3_arroyos
 linkedin_username:
 
+future: true
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
-paginate:           5
-paginate_path:      "/posts/page:num/"
+#paginate:           5
+#paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
